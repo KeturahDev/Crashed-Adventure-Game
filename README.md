@@ -15,6 +15,9 @@
 | :------------- |:-------------| :-------------------|
 | Assign amount of memories | Med | You have 7 memories |
 | Choose Location to go look for friend | *type office* | You are now in the office, you can either look for friend, or talk to someone there |
+| People are available to talk to at each location | *select talk action* | prompted with people you are available to talk to, you can type one, and discussion starts |
+| User has a list of memories to tell them | *choose share memory* | "Well, dont you remember this (memory)?" |
+| Some people will remember who your talking about, some dont | *select talk action and choose person 1 to talk to* | You can tell them a memory, they will say "Oh yeah! them!" |
 
 
 
